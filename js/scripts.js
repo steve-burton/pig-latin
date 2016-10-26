@@ -1,5 +1,7 @@
 var pigLatin = function(sentence) {
-  return false;
+  if (sentence === "a" || sentence === "i") {
+    return sentence.concat("ay");
+  };
 };
 
 $(document).ready(function() {
