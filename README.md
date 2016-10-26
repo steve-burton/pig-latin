@@ -14,6 +14,11 @@ The program adds "ay" to words beginning with a vowel.
 * _Input Example: i_
 * _Output Example: iay_
 
+The program adds "ay" to all words beginning with a vowel.
+* _Input Example: apple_
+* _Output Example: appleay_
+
+
 The program moves the first consonant of a word to the end of the word when a word starts with a consonant.
 * _Input Example: car_
 * _Output Example: arc_
